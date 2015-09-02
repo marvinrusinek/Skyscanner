@@ -1,0 +1,2303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<flightdata>
+<flight>
+  <flightnumber>475</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>4:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/27/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1525</price>
+</flight>
+<flight>
+  <flightnumber>476</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>6:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/27/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1525</price>
+</flight>
+<flight>
+  <flightnumber>202</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/13/2011</departuredate>
+  <departuretime>7:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/14/2011</arrivaldate>
+  <arrivaltime>5:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1450</price>
+</flight>
+<flight>
+  <flightnumber>203</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/13/2011</departuredate>
+  <departuretime>9:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/14/2011</arrivaldate>
+  <arrivaltime>7:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>9:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1450</price>
+</flight>
+<flight>
+  <flightnumber>671</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/14/2011</departuredate>
+  <departuretime>5:00 PM</departuretime>
+  <destinationlocation>Eilat, Israel (ETH-Elat)</destinationlocation>
+  <destinationairport>Elat</destinationairport>
+  <destinationairportsymbol>ETH</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>3:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>5780 miles (9300 km)</distance>
+  <returndate>05/21/2011</returndate>
+  <returntime>10:00 PM</returntime>
+  <triptype>one way</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>820</price>
+</flight>
+<flight>
+  <flightnumber>452</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>4:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>2:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>5660 miles (9110 km)</distance>
+  <returndate>05/19/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>one way</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>811</price>
+</flight>
+<flight>
+  <flightnumber>253</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>4:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>5660 miles (9110 km)</distance>
+  <returndate>05/19/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>one way</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>811</price>
+</flight>
+<flight>
+  <flightnumber>673</flightnumber>
+  <airline>Lufthansa</airline>
+  <airlineimageurl>images/Lufthansa.gif</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/13/2011</departuredate>
+  <departuretime>7:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/14/2011</arrivaldate>
+  <arrivaltime>5:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/27/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1215</price>
+</flight>
+<flight>
+  <flightnumber>762</flightnumber>
+  <airline>Lufthansa</airline>
+  <airlineimageurl>images/Lufthansa.gif</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/13/2011</departuredate>
+  <departuretime>9:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/14/2011</arrivaldate>
+  <arrivaltime>7:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/27/2011</returndate>
+  <returntime>10:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1215</price>
+</flight>
+<flight>
+  <flightnumber>901</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/14/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (SDV-Sde Dov)</destinationlocation>
+  <destinationairport>Sde Dov</destinationairport>
+  <destinationairportsymbol>SDV</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>4:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11386 miles (18216 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>11:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1345</price>
+</flight>
+<flight>
+  <flightnumber>902</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/14/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (SDV-Sde Dov)</destinationlocation>
+  <destinationairport>Sde Dov</destinationairport>
+  <destinationairportsymbol>SDV</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>6:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11386 miles (18216 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>1:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1345</price>
+</flight>
+<flight>
+  <flightnumber>100</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>11:00 AM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>9:00 PM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>11:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1475</price>
+</flight>
+<flight>
+  <flightnumber>323</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Bergamo, Italy (BGY-Milan Bergamo)</destinationlocation>
+  <destinationairport>Milan Bergamo</destinationairport>
+  <destinationairportsymbol>BGY</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>4:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>8040 miles (12940 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>800</price>
+</flight>
+<flight>
+  <flightnumber>324</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>11:00 AM</departuretime>
+  <destinationlocation>Bergamo, Italy (BGY-Milan Bergamo)</destinationlocation>
+  <destinationairport>Milan Bergamo</destinationairport>
+  <destinationairportsymbol>BGY</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>6:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>8040 miles (12940 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>800</price>
+</flight>
+<flight>
+  <flightnumber>411</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Venice, Italy (VCE-Marco Polo)</destinationlocation>
+  <destinationairport>Venice Marco Polo</destinationairport>
+  <destinationairportsymbol>VCE</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>3:00 AM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>8280 miles (13320 km)</distance>
+  <returndate>05/26/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>820</price>
+</flight>
+<flight>
+  <flightnumber>412</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>10:00 PM</departuretime>
+  <destinationlocation>Venice, Italy (VCE-Marco Polo)</destinationlocation>
+  <destinationairport>Venice Marco Polo</destinationairport>
+  <destinationairportsymbol>VCE</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>5:00 AM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>8280 miles (13320 km)</distance>
+  <returndate>05/26/2011</returndate>
+  <returntime>10:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>820</price>
+</flight>
+<flight>
+  <flightnumber>554</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>7:00 PM</departuretime>
+  <destinationlocation>Miami, FL (MIA-Miami Intl.)</destinationlocation>
+  <destinationairport>Miami International</destinationairport>
+  <destinationairportsymbol>MIA</destinationairportsymbol>
+  <arrivaldate>05/12/2011</arrivaldate>
+  <arrivaltime>9:00 PM</arrivaltime>
+  <duration>2 hours</duration>
+  <distance>2180 miles (3500 km)</distance>
+  <returndate>05/26/2011</returndate>
+  <returntime>10:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>580</price>
+</flight>
+<flight>
+  <flightnumber>555</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/12/2011</departuredate>
+  <departuretime>9:00 PM</departuretime>
+  <destinationlocation>Miami, FL (MIA-Miami Intl.)</destinationlocation>
+  <destinationairport>Miami International</destinationairport>
+  <destinationairportsymbol>MIA</destinationairportsymbol>
+  <arrivaldate>05/13/2011</arrivaldate>
+  <arrivaltime>12:00 AM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>2180 miles (3500 km)</distance>
+  <returndate>05/26/2011</returndate>
+  <returntime>12:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>580</price>
+</flight>
+<flight>
+  <flightnumber>701</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/13/2011</departuredate>
+  <departuretime>10:00 PM</departuretime>
+  <destinationlocation>Paris, France (CDG-Charles de Gaulle)</destinationlocation>
+  <destinationairport>Charles de Gaulle</destinationairport>
+  <destinationairportsymbol>CDG</destinationairportsymbol>
+  <arrivaldate>05/14/2011</arrivaldate>
+  <arrivaltime>4:00 AM</arrivaltime>
+  <duration>6 hours</duration>
+  <distance>7280 miles (11720 km)</distance>
+  <returndate>05/27/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1236</price>
+</flight>
+<flight>
+  <flightnumber>821</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>6:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1575</price>
+</flight>
+<flight>
+  <flightnumber>822</flightnumber>
+  <airline>El Al</airline>
+  <airlineimageurl>images/ElAl.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>10:00 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>8:00 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11320 miles (18220 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>10:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1575</price>
+</flight>
+<flight>
+  <flightnumber>111</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>2:30 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>11:00 PM</arrivaltime>
+  <duration>8 hours, 30 minutes</duration>
+  <distance>8520 miles (13720 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>1</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1181</price>
+</flight>
+<flight>
+  <flightnumber>112</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>10:00 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>4:20 PM</arrivaltime>
+  <duration>6 hours, 20 minutes</duration>
+  <distance>8520 miles (13720 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>9:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>1</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1181</price>
+</flight>
+<flight>
+  <flightnumber>201</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>12:00 AM</arrivaltime>
+  <duration>6 hours</duration>
+  <distance>8520 miles (13720 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>5:40 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1100</price>
+</flight>
+<flight>
+  <flightnumber>202</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>2:00 AM</arrivaltime>
+  <duration>6 hours</duration>
+  <distance>8520 miles (13720 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>7:40 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1100</price>
+</flight>
+<flight>
+  <flightnumber>198</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>7:30 PM</departuretime>
+  <destinationlocation>Los Angeles, CA (LAX-Los Angeles Intl.)</destinationlocation>
+  <destinationairport>Los Angeles International</destinationairport>
+  <destinationairportsymbol>LAX</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>12:30 AM</arrivaltime>
+  <duration>5 hours</duration>
+  <distance>4920 miles (7920 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>7:15 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>700</price>
+</flight>
+<flight>
+  <flightnumber>197</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>5:10 PM</departuretime>
+  <destinationlocation>Los Angeles, CA (LAX-Los Angeles Intl.)</destinationlocation>
+  <destinationairport>Los Angeles International</destinationairport>
+  <destinationairportsymbol>LAX</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>10:10 PM</arrivaltime>
+  <duration>5 hours</duration>
+  <distance>4920 miles (7920 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>5:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>700</price>
+</flight>
+<flight>
+  <flightnumber>215</flightnumber>
+  <airline>U.S. Airways</airline>
+  <airlineimageurl>images/USAirways.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/19/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Los Angeles, CA (LAX-Los Angeles Intl.)</destinationlocation>
+  <destinationairport>Los Angeles International	</destinationairport>
+  <destinationairportsymbol>LAX</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>11:00 PM</arrivaltime>
+  <duration>5 hours</duration>
+  <distance>4920 miles (7920 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>5:45 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>715</price>
+</flight>
+<flight>
+  <flightnumber>216</flightnumber>
+  <airline>U.S. Airways</airline>
+  <airlineimageurl>images/USAirways.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/19/2011</departuredate>
+  <departuretime>8:15 PM</departuretime>
+  <destinationlocation>Los Angeles, CA (LAX-Los Angeles Intl.)</destinationlocation>
+  <destinationairport>Los Angeles International</destinationairport>
+  <destinationairportsymbol>LAX</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>1:15 AM</arrivaltime>
+  <duration>5 hours</duration>
+  <distance>4920 miles (7920 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>715</price>
+</flight>
+<flight>
+  <flightnumber>324</flightnumber>
+  <airline>U.S. Airways</airline>
+  <airlineimageurl>images/USAirways.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Chicago, IL (ORD-O'Hare Intl.)</destinationlocation>
+  <destinationairport>Chicago O'Hare International</destinationairport>
+  <destinationairportsymbol>ORD</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>7:40 PM</arrivaltime>
+  <duration>1 hour, 40 minutes</duration>
+  <distance>1474 miles (2380 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>252</price>
+</flight>
+<flight>
+  <flightnumber>325</flightnumber>
+  <airline>U.S. Airways</airline>
+  <airlineimageurl>images/USAirways.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>8:00 PM</departuretime>
+  <destinationlocation>Chicago, IL (ORD-O'Hare Intl.)</destinationlocation>
+  <destinationairport>Chicago O'Hare International</destinationairport>
+  <destinationairportsymbol>ORD</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>9:40 PM</arrivaltime>
+  <duration>1 hour, 40 minutes</duration>
+  <distance>1462 miles (2360 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>7:50 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>252</price>
+</flight>
+<flight>
+  <flightnumber>362</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/21/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Chicago, IL (ORD-O'Hare Intl.)</destinationlocation>
+  <destinationairport>Chicago O'Hare International</destinationairport>
+  <destinationairportsymbol>ORD</destinationairportsymbol>
+  <arrivaldate>05/21/2011</arrivaldate>
+  <arrivaltime>7:50 PM</arrivaltime>
+  <duration>1 hour, 50 minutes</duration>
+  <distance>1434 miles (2300 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>263</price>
+</flight>
+<flight>
+  <flightnumber>363</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/21/2011</departuredate>
+  <departuretime>7:30 PM</departuretime>
+  <destinationlocation>Chicago, IL (ORD-O'Hare Intl.)</destinationlocation>
+  <destinationairport>Chicago O'Hare International</destinationairport>
+  <destinationairportsymbol>ORD</destinationairportsymbol>
+  <arrivaldate>05/21/2011</arrivaldate>
+  <arrivaltime>9:10 PM</arrivaltime>
+  <duration>1 hour, 40 minutes</duration>
+  <distance>1434 miles (2300 km)</distance>
+  <returndate>05/28/2011</returndate>
+  <returntime>7:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>263</price>
+</flight>
+<flight>
+  <flightnumber>151</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>7:15 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>5:15 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11360 miles (18280 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1200</price>
+</flight>
+<flight>
+  <flightnumber>152</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>9:15 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>7:15 AM</arrivaltime>
+  <duration>10 hours</duration>
+  <distance>11360 miles (18280 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>9:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1200</price>
+</flight>
+<flight>
+  <flightnumber>144</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>12:00 AM</arrivaltime>
+  <duration>6 hours</duration>
+  <distance>8560 miles (13780 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>900</price>
+</flight>
+<flight>
+  <flightnumber>145</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:15 PM</departuretime>
+  <destinationlocation>Rome, Italy (FCO-Leonardo Da Vinci)</destinationlocation>
+  <destinationairport>Rome Fiumicino</destinationairport>
+  <destinationairportsymbol>FCO</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>2:20 AM</arrivaltime>
+  <duration>6 hours, 5 minutes</duration>
+  <distance>8560 miles (13780 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>900</price>
+</flight>
+<flight>
+  <flightnumber>200</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>5:50 PM</departuretime>
+  <destinationlocation>Athens, Greece (ATH-Eleftherios)</destinationlocation>
+  <destinationairport>Athens International</destinationairport>
+  <destinationairportsymbol>ATH</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>11:50 PM</arrivaltime>
+  <duration>6 hours</duration>
+  <distance>9840 miles (15840 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>5:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1143</price>
+</flight>
+<flight>
+  <flightnumber>201</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>4:25 PM</departuretime>
+  <destinationlocation>Athens, Greece (ATH-Eleftherios)</destinationlocation>
+  <destinationairport>Athens International</destinationairport>
+  <destinationairportsymbol>ATH</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>10:40 AM</arrivaltime>
+  <duration>6 hours, 15 minutes</duration>
+  <distance>9840 miles (15840 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>4:10 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1143</price>
+</flight>
+<flight>
+  <flightnumber>630</flightnumber>
+  <airline>LOT-Polish Airlines</airline>
+  <airlineimageurl>images/LOT.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>6:15 PM</departuretime>
+  <destinationlocation>Warsaw, Poland (WAW-Frederic Chopin)</destinationlocation>
+  <destinationairport>Okecie Airport</destinationairport>
+  <destinationairportsymbol>WAW</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>11:45 PM</arrivaltime>
+  <duration>5 hours, 30 minutes</duration>
+  <distance>8500 miles (13680 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1143</price>
+</flight>
+<flight>
+  <flightnumber>715</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>7:00 PM</departuretime>
+  <destinationlocation>Moscow, Russia (DME-Domodedovo Intl.)</destinationlocation>
+  <destinationairport>Domodedovo International</destinationairport>
+  <destinationairportsymbol>DME</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>9:00 AM</arrivaltime>
+  <duration>14 hours</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>6:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>898</price>
+</flight>
+<flight>
+  <flightnumber>717</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>7:00 AM</departuretime>
+  <destinationlocation>Moscow, Russia (DME-Domodedovo Intl.)</destinationlocation>
+  <destinationairport>Domodedovo International</destinationairport>
+  <destinationairportsymbol>DME</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>9:00 PM</arrivaltime>
+  <duration>14 hours</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>6:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>898</price>
+</flight>
+<flight>
+  <flightnumber>800</flightnumber>
+  <airline>Turkish Airlines</airline>
+  <airlineimageurl>images/TurkAir.png</airlineimageurl>
+  <departurelocation>Los Angeles, CA (LAX-Los Angeles Intl.)</departurelocation>
+  <departureairport>Los Angeles International</departureairport>
+  <departureairportsymbol>LAX</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>5:55 PM</departuretime>
+  <destinationlocation>Tel Aviv, Israel (TLV-Ben Gurion)</destinationlocation>
+  <destinationairport>Ben Gurion Airport</destinationairport>
+  <destinationairportsymbol>TLV</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>10:00 AM</arrivaltime>
+  <duration>16 hours, 5 minutes</duration>
+  <distance>15120 miles (24400 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>5:50 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>1</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1058</price>
+</flight>
+<flight>
+  <flightnumber>321</flightnumber>
+  <airline>LOT-Polish Airlines</airline>
+  <airlineimageurl>images/LOT.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/15/2011</departuredate>
+  <departuretime>3:00 PM</departuretime>
+  <destinationlocation>Warsaw, Poland (WAW-Frederic Chopin)</destinationlocation>
+  <destinationairport>Okecie Airport</destinationairport>
+  <destinationairportsymbol>WAW</destinationairportsymbol>
+  <arrivaldate>05/15/2011</arrivaldate>
+  <arrivaltime>8:30 PM</arrivaltime>
+  <duration>5 hours, 30 minutes</duration>
+  <distance>8500 miles (13680 km)</distance>
+  <returndate>05/29/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1100</price>
+</flight>
+<flight>
+  <flightnumber>337</flightnumber>
+  <airline>LOT-Polish Airlines</airline>
+  <airlineimageurl>images/LOT.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>5:00 PM</departuretime>
+  <destinationlocation>Warsaw, Poland (WAW-Frederic Chopin)</destinationlocation>
+  <destinationairport>Okecie Airport</destinationairport>
+  <destinationairportsymbol>WAW</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>10:30 PM</arrivaltime>
+  <duration>5 hours, 30 minutes</duration>
+  <distance>8500 miles (13680 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1100</price>
+</flight>
+<flight>
+  <flightnumber>139</flightnumber>
+  <airline>United</airline>
+  <airlineimageurl>images/United.gif</airlineimageurl>
+  <departurelocation>Miami, FL (MIA-Miami Intl.)</departurelocation>
+  <departureairport>Miami International</departureairport>
+  <departureairportsymbol>MIA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>7:00 AM</departuretime>
+  <destinationlocation>Tokyo, Japan (HND-Haneda)</destinationlocation>
+  <destinationairport>Haneda Airport</destinationairport>
+  <destinationairportsymbol>HND</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>10:00 PM</arrivaltime>
+  <duration>15 hours</duration>
+  <distance>14900 miles (24000 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>9:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1465</price>
+</flight>
+<flight>
+  <flightnumber>167</flightnumber>
+  <airline>LOT-Polish Airlines</airline>
+  <airlineimageurl>images/LOT.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Minsk, Belarus (MSQ-Minsk Intl.)</destinationlocation>
+  <destinationairport>Minsk Intl.</destinationairport>
+  <destinationairportsymbol>MSQ</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>6:00 PM</arrivaltime>
+  <duration>9 hours</duration>
+  <distance>8840 miles (14220 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1111</price>
+</flight>
+<flight>
+  <flightnumber>444</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Geneva, Switzerland (GVA)</destinationlocation>
+  <destinationairport>Cointrin Intl.</destinationairport>
+  <destinationairportsymbol>GVA</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>5:00 PM</arrivaltime>
+  <duration>9 hours</duration>
+  <distance>7700 miles (12400 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>4:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>1</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1001</price>
+</flight>
+<flight>
+  <flightnumber>456</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Geneva, Switzerland (GVA)</destinationlocation>
+  <destinationairport>Cointrin Intl.</destinationairport>
+  <destinationairportsymbol>GVA</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>5:00 PM</arrivaltime>
+  <duration>9 hours</duration>
+  <distance>7700 miles (12400 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>4:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>1</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1001</price>
+</flight>
+<flight>
+  <flightnumber>490</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Shanghai, China (SHA-Hongqiao Intl.)</destinationlocation>
+  <destinationairport>Hongqiao Intl.</destinationairport>
+  <destinationairportsymbol>SHA</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>9:00 PM</arrivaltime>
+  <duration>15 hours</duration>
+  <distance>14740 miles (23800 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1416</price>
+</flight>
+<flight>
+  <flightnumber>501</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Shanghai, China (SHA-Hongqiao Intl.)</destinationlocation>
+  <destinationairport>Hongqiao Intl.</destinationairport>
+  <destinationairportsymbol>SHA</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>9:00 PM</arrivaltime>
+  <duration>15 hours</duration>
+  <distance>14740 miles (23800 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1416</price>
+</flight>
+<flight>
+  <flightnumber>562</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>7:00 AM</departuretime>
+  <destinationlocation>Shanghai, China (SHA-Hongqiao Intl.)</destinationlocation>
+  <destinationairport>Hongqiao Intl.</destinationairport>
+  <destinationairportsymbol>SHA</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>10:00 PM</arrivaltime>
+  <duration>15 hours</duration>
+  <distance>14740 miles (23800 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1453</price>
+</flight>
+<flight>
+  <flightnumber>47</flightnumber>
+  <airline>Iberia</airline>
+  <airlineimageurl>images/Iberia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Madrid, Spain (MAD-Barajas)</destinationlocation>
+  <destinationairport>Barajas</destinationairport>
+  <destinationairportsymbol>MAD</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>1:10 PM</arrivaltime>
+  <duration>7 hours, 10 minutes</duration>
+  <distance>7160 miles (11520 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>12:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>893</price>
+</flight>
+<flight>
+  <flightnumber>52</flightnumber>
+  <airline>Iberia</airline>
+  <airlineimageurl>images/Iberia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Madrid, Spain (MAD-Barajas)</destinationlocation>
+  <destinationairport>Barajas</destinationairport>
+  <destinationairportsymbol>MAD</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>3:10 PM</arrivaltime>
+  <duration>7 hours, 10 minutes</duration>
+  <distance>7160 miles (11520 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>893</price>
+</flight>
+<flight>
+  <flightnumber>61</flightnumber>
+  <airline>Iberia</airline>
+  <airlineimageurl>images/Iberia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Madrid, Spain (MAD-Barajas)</destinationlocation>
+  <destinationairport>Barajas</destinationairport>
+  <destinationairportsymbol>MAD</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>1:10 PM</arrivaltime>
+  <duration>7 hours, 10 minutes</duration>
+  <distance>7160 miles (11520 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>12:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>901</price>
+</flight>
+<flight>
+  <flightnumber>65</flightnumber>
+  <airline>Iberia</airline>
+  <airlineimageurl>images/Iberia.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Madrid, Spain (MAD-Barajas)</destinationlocation>
+  <destinationairport>Barajas</destinationairport>
+  <destinationairportsymbol>MAD</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>3:10 PM</arrivaltime>
+  <duration>7 hours, 10 minutes</duration>
+  <distance>7160 miles (11520 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>1:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>901</price>
+</flight>
+<flight>
+  <flightnumber>145</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>10:00 AM</departuretime>
+  <destinationlocation>Vienna, Austria (VIE-Vienna Intl.)</destinationlocation>
+  <destinationairport>Vienna Intl.</destinationairport>
+  <destinationairportsymbol>VIE</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>6:30 PM</arrivaltime>
+  <duration>8 hours, 30 minutes</duration>
+  <distance>8440 miles (13580 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1172</price>
+</flight>
+<flight>
+  <flightnumber>149</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Vienna, Austria (VIE-Vienna Intl.)</destinationlocation>
+  <destinationairport>Vienna Intl.</destinationairport>
+  <destinationairportsymbol>VIE</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>8:30 PM</arrivaltime>
+  <duration>8 hours, 30 minutes</duration>
+  <distance>8440 miles (13580 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1172</price>
+</flight>
+<flight>
+  <flightnumber>168</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Vienna, Austria (VIE-Vienna Intl.)</destinationlocation>
+  <destinationairport>Vienna Intl.</destinationairport>
+  <destinationairportsymbol>VIE</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>8:30 PM</arrivaltime>
+  <duration>8 hours, 30 minutes</duration>
+  <distance>8440 miles (13580 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1134</price>
+</flight>
+<flight>
+  <flightnumber>174</flightnumber>
+  <airline>Swiss Air</airline>
+  <airlineimageurl>images/SwissAir.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>2:00 PM</departuretime>
+  <destinationlocation>Vienna, Austria (VIE-Vienna Intl.)</destinationlocation>
+  <destinationairport>Vienna Intl.</destinationairport>
+  <destinationairportsymbol>VIE</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>10:30 PM</arrivaltime>
+  <duration>8 hours, 30 minutes</duration>
+  <distance>8440 miles (13580 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1134</price>
+</flight>
+<flight>
+  <flightnumber>501</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/19/2011</departuredate>
+  <departuretime>11:00 AM</departuretime>
+  <destinationlocation>Cancun, Mexico (CUN-Cancun Intl.)</destinationlocation>
+  <destinationairport>Cancun Intl.</destinationairport>
+  <destinationairportsymbol>CUN</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>2:00 PM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3120 miles (5020 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>467</price>
+</flight>
+<flight>
+  <flightnumber>503</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/19/2011</departuredate>
+  <departuretime>1:00 PM</departuretime>
+  <destinationlocation>Cancun, Mexico (CUN-Cancun Intl.)</destinationlocation>
+  <destinationairport>Cancun Intl.</destinationairport>
+  <destinationairportsymbol>CUN</destinationairportsymbol>
+  <arrivaldate>05/19/2011</arrivaldate>
+  <arrivaltime>4:00 PM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3120 miles (5020 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>467</price>
+</flight>
+<flight>
+  <flightnumber>517</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>11:00 AM</departuretime>
+  <destinationlocation>Cancun, Mexico (CUN-Cancun Intl.)</destinationlocation>
+  <destinationairport>Cancun Intl.</destinationairport>
+  <destinationairportsymbol>CUN</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>2:00 PM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3120 miles (5020 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>450</price>
+</flight>
+<flight>
+  <flightnumber>519</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>1:00 PM</departuretime>
+  <destinationlocation>Cancun, Mexico (CUN-Cancun Intl.)</destinationlocation>
+  <destinationairport>Cancun Intl.</destinationairport>
+  <destinationairportsymbol>CUN</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>4:00 PM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3120 miles (5020 km)</distance>
+  <returndate>06/03/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>450</price>
+</flight>
+<flight>
+  <flightnumber>133</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>7:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>2:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>855</price>
+</flight>
+<flight>
+  <flightnumber>135</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>4:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>3:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>855</price>
+</flight>
+<flight>
+  <flightnumber>150</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>7:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>2:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>862</price>
+</flight>
+<flight>
+  <flightnumber>152</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>4:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>3:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>862</price>
+</flight>
+<flight>
+  <flightnumber>173</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Juneau, Alaska (JNU-Juneau Intl.)</destinationlocation>
+  <destinationairport>Juneau Intl.</destinationairport>
+  <destinationairportsymbol>JNU</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>11:45 AM</arrivaltime>
+  <duration>5 hours, 45 minutes</duration>
+  <distance>5740 miles (9240 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>11:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>4</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1115</price>
+</flight>
+<flight>
+  <flightnumber>178</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Juneau, Alaska (JNU-Juneau Intl.)</destinationlocation>
+  <destinationairport>Juneau Intl.</destinationairport>
+  <destinationairportsymbol>JNU</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>2:45 PM</arrivaltime>
+  <duration>5 hours, 45 minutes</duration>
+  <distance>5740 miles (9240 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>4</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1115</price>
+</flight>
+<flight>
+  <flightnumber>192</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Juneau, Alaska (JNU-Juneau Intl.)</destinationlocation>
+  <destinationairport>Juneau Intl.</destinationairport>
+  <destinationairportsymbol>JNU</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>11:45 AM</arrivaltime>
+  <duration>5 hours, 45 minutes</duration>
+  <distance>5740 miles (9240 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>11:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>4</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1052</price>
+</flight>
+<flight>
+  <flightnumber>196</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Juneau, Alaska (JNU-Juneau Intl.)</destinationlocation>
+  <destinationairport>Juneau Intl.</destinationairport>
+  <destinationairportsymbol>JNU</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>2:45 PM</arrivaltime>
+  <duration>5 hours, 45 minutes</duration>
+  <distance>5740 miles (9240 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>1:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>4</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1052</price>
+</flight>
+<flight>
+  <flightnumber>214</flightnumber>
+  <airline>Continental</airline>
+  <airlineimageurl>images/Continental.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Rio de Janeiro, Brazil (SDU-Santos Dumont)</destinationlocation>
+  <destinationairport>Santos Dumont</destinationairport>
+  <destinationairportsymbol>SDU</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>6:30 PM</arrivaltime>
+  <duration>9 hours, 30 minutes</duration>
+  <distance>9620 miles (15480 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>5:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1446</price>
+</flight>
+<flight>
+  <flightnumber>218</flightnumber>
+  <airline>Continental</airline>
+  <airlineimageurl>images/Continental.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Rio de Janeiro, Brazil (SDU-Santos Dumont)</destinationlocation>
+  <destinationairport>Santos Dumont</destinationairport>
+  <destinationairportsymbol>SDU</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>9:30 PM</arrivaltime>
+  <duration>9 hours, 30 minutes</duration>
+  <distance>9620 miles (15480 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1446</price>
+</flight>
+<flight>
+  <flightnumber>240</flightnumber>
+  <airline>Continental</airline>
+  <airlineimageurl>images/Continental.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>9:00 AM</departuretime>
+  <destinationlocation>Rio de Janeiro, Brazil (SDU-Santos Dumont)</destinationlocation>
+  <destinationairport>Santos Dumont</destinationairport>
+  <destinationairportsymbol>SDU</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>6:30 PM</arrivaltime>
+  <duration>9 hours, 30 minutes</duration>
+  <distance>9620 miles (15480 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>5:30 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1430</price>
+</flight>
+<flight>
+  <flightnumber>244</flightnumber>
+  <airline>Continental</airline>
+  <airlineimageurl>images/Continental.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Rio de Janeiro, Brazil (SDU-Santos Dumont)</destinationlocation>
+  <destinationairport>Santos Dumont</destinationairport>
+  <destinationairportsymbol>SDU</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>9:30 PM</arrivaltime>
+  <duration>9 hours, 30 minutes</duration>
+  <distance>9620 miles (15480 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>8:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1430</price>
+</flight>
+<flight>
+  <flightnumber>475</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Oranjestad, Aruba (AUA-Queen Beatrix Intl.)</destinationlocation>
+  <destinationairport>Queen Beatrix Intl.</destinationairport>
+  <destinationairportsymbol>AUA</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>10:00 AM</arrivaltime>
+  <duration>4 hours</duration>
+  <distance>3920 miles (6300 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>9:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>800</price>
+</flight>
+<flight>
+  <flightnumber>480</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Oranjestad, Aruba (AUA-Queen Beatrix Intl.)</destinationlocation>
+  <destinationairport>Queen Beatrix Intl.</destinationairport>
+  <destinationairportsymbol>AUA</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>12:00 PM</arrivaltime>
+  <duration>4 hours</duration>
+  <distance>3920 miles (6300 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>11:30 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>800</price>
+</flight>
+<flight>
+  <flightnumber>496</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Oranjestad, Aruba (AUA-Queen Beatrix Intl.)</destinationlocation>
+  <destinationairport>Queen Beatrix Intl.</destinationairport>
+  <destinationairportsymbol>AUA</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>10:00 AM</arrivaltime>
+  <duration>4 hours</duration>
+  <distance>3920 miles (6300 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>9:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>790</price>
+</flight>
+<flight>
+  <flightnumber>500</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (LGA-La Guardia)</departurelocation>
+  <departureairport>La Guardia Airport</departureairport>
+  <departureairportsymbol>LGA</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Oranjestad, Aruba (AUA-Queen Beatrix Intl.)</destinationlocation>
+  <destinationairport>Queen Beatrix Intl.</destinationairport>
+  <destinationairportsymbol>AUA</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>12:00 PM</arrivaltime>
+  <duration>4 hours</duration>
+  <distance>3920 miles (6300 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>11:30 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>790</price>
+</flight>
+<flight>
+  <flightnumber>213</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>3:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>860</price>
+</flight>
+<flight>
+  <flightnumber>217</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>10:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>5:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>860</price>
+</flight>
+<flight>
+  <flightnumber>231</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>3:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>2:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>867</price>
+</flight>
+<flight>
+  <flightnumber>235</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>10:00 AM</departuretime>
+  <destinationlocation>London, England (LHR - Heathrow)</destinationlocation>
+  <destinationairport>Heathrow</destinationairport>
+  <destinationairportsymbol>LHR</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>5:00 PM</arrivaltime>
+  <duration>7 hours</duration>
+  <distance>6880 miles (11080 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>867</price>
+</flight>
+<flight>
+  <flightnumber>23</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Kiev, Ukraine (KBP-Borispol Intl.)</destinationlocation>
+  <destinationairport>Borispol Intl.</destinationairport>
+  <destinationairportsymbol>KBP</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>5:20 PM</arrivaltime>
+  <duration>9 hours, 20 minutes</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1068</price>
+</flight>
+<flight>
+  <flightnumber>27</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>10:00 AM</departuretime>
+  <destinationlocation>Kiev, Ukraine (KBP-Borispol Intl.)</destinationlocation>
+  <destinationairport>Borispol Intl.</destinationairport>
+  <destinationairportsymbol>KBP</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>7:20 PM</arrivaltime>
+  <duration>9 hours, 20 minutes</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1068</price>
+</flight>
+<flight>
+  <flightnumber>35</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Kiev, Ukraine (KBP-Borispol Intl.)</destinationlocation>
+  <destinationairport>Borispol Intl.</destinationairport>
+  <destinationairportsymbol>KBP</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>5:20 PM</arrivaltime>
+  <duration>9 hours, 20 minutes</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>4:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1050</price>
+</flight>
+<flight>
+  <flightnumber>39</flightnumber>
+  <airline>Aeroflot-Russian Airlines</airline>
+  <airlineimageurl>images/AeroflotRU.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>10:00 AM</departuretime>
+  <destinationlocation>Kiev, Ukraine (KBP-Borispol Intl.)</destinationlocation>
+  <destinationairport>Borispol Intl.</destinationairport>
+  <destinationairportsymbol>KBP</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>7:20 PM</arrivaltime>
+  <duration>9 hours, 20 minutes</duration>
+  <distance>9360 miles (15060 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>6:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>1050</price>
+</flight>
+<flight>
+  <flightnumber>43</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Cairo, Egypt (CAI-Cairo Intl.)</destinationlocation>
+  <destinationairport>Cairo Intl.</destinationairport>
+  <destinationairportsymbol>CAI</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>5:15 PM</arrivaltime>
+  <duration>11 hours, 15 minutes</duration>
+  <distance>11200 miles (18020 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>5:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>977</price>
+</flight>
+<flight>
+  <flightnumber>45</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/20/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Cairo, Egypt (CAI-Cairo Intl.)</destinationlocation>
+  <destinationairport>Cairo Intl.</destinationairport>
+  <destinationairportsymbol>CAI</destinationairportsymbol>
+  <arrivaldate>05/20/2011</arrivaldate>
+  <arrivaltime>7:15 PM</arrivaltime>
+  <duration>11 hours, 15 minutes</duration>
+  <distance>11200 miles (18020 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>977</price>
+</flight>
+<flight>
+  <flightnumber>49</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/21/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Cairo, Egypt (CAI-Cairo Intl.)</destinationlocation>
+  <destinationairport>Cairo Intl.</destinationairport>
+  <destinationairportsymbol>CAI</destinationairportsymbol>
+  <arrivaldate>05/21/2011</arrivaldate>
+  <arrivaltime>5:15 PM</arrivaltime>
+  <duration>11 hours, 15 minutes</duration>
+  <distance>11200 miles (18020 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>5:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>963</price>
+</flight>
+<flight>
+  <flightnumber>53</flightnumber>
+  <airline>Alitalia</airline>
+  <airlineimageurl>images/Alitalia.png</airlineimageurl>
+  <departurelocation>Newark, NJ (EWR-Liberty Intl.)</departurelocation>
+  <departureairport>Liberty International</departureairport>
+  <departureairportsymbol>EWR</departureairportsymbol>
+  <departuredate>05/21/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Cairo, Egypt (CAI-Cairo Intl.)</destinationlocation>
+  <destinationairport>Cairo Intl.</destinationairport>
+  <destinationairportsymbol>CAI</destinationairportsymbol>
+  <arrivaldate>05/21/2011</arrivaldate>
+  <arrivaltime>7:15 PM</arrivaltime>
+  <duration>11 hours, 15 minutes</duration>
+  <distance>11200 miles (18020 km)</distance>
+  <returndate>06/02/2011</returndate>
+  <returntime>7:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>963</price>
+</flight>
+<flight>
+  <flightnumber>104</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Santo Domingo, Dominican Republic (SDQ-Las Americas Intl.)</destinationlocation>
+  <destinationairport>Las Americas Intl.</destinationairport>
+  <destinationairportsymbol>SDQ</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>9:00 AM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3100 miles (4980 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>8:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>657</price>
+</flight>
+<flight>
+  <flightnumber>107</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Santo Domingo, Dominican Republic (SDQ-Las Americas Intl.)</destinationlocation>
+  <destinationairport>Las Americas Intl.</destinationairport>
+  <destinationairportsymbol>SDQ</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>11:00 AM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3100 miles (4980 km)</distance>
+  <returndate>05/31/2011</returndate>
+  <returntime>10:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>657</price>
+</flight>
+<flight>
+  <flightnumber>121</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>6:00 AM</departuretime>
+  <destinationlocation>Santo Domingo, Dominican Republic (SDQ-Las Americas Intl.)</destinationlocation>
+  <destinationairport>Las Americas Intl.</destinationairport>
+  <destinationairportsymbol>SDQ</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>9:00 AM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3100 miles (4980 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>8:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>664</price>
+</flight>
+<flight>
+  <flightnumber>124</flightnumber>
+  <airline>Delta</airline>
+  <airlineimageurl>images/Delta.png</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/18/2011</departuredate>
+  <departuretime>8:00 AM</departuretime>
+  <destinationlocation>Santo Domingo, Dominican Republic (SDQ-Las Americas Intl.)</destinationlocation>
+  <destinationairport>Las Americas Intl.</destinationairport>
+  <destinationairportsymbol>SDQ</destinationairportsymbol>
+  <arrivaldate>05/18/2011</arrivaldate>
+  <arrivaltime>11:00 AM</arrivaltime>
+  <duration>3 hours</duration>
+  <distance>3100 miles (4980 km)</distance>
+  <returndate>06/01/2011</returndate>
+  <returntime>10:00 AM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>664</price>
+</flight>
+<flight>
+  <flightnumber>610</flightnumber>
+  <airline>United</airline>
+  <airlineimageurl>images/United.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Montreal, PQ, Canada (YUL-Pierre Elliott Trudeau Intl.)</destinationlocation>
+  <destinationairport>Pierre Elliott Trudeau Intl.</destinationairport>
+  <destinationairportsymbol>YUL</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>12:40 PM</arrivaltime>
+  <duration>40 minutes</duration>
+  <distance>664 miles (1068 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>12:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>350</price>
+</flight>
+<flight>
+  <flightnumber>616</flightnumber>
+  <airline>United</airline>
+  <airlineimageurl>images/United.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/16/2011</departuredate>
+  <departuretime>3:00 PM</departuretime>
+  <destinationlocation>Montreal, PQ, Canada (YUL-Pierre Elliott Trudeau Intl.)</destinationlocation>
+  <destinationairport>Pierre Elliott Trudeau Intl.</destinationairport>
+  <destinationairportsymbol>YUL</destinationairportsymbol>
+  <arrivaldate>05/16/2011</arrivaldate>
+  <arrivaltime>3:40 PM</arrivaltime>
+  <duration>40 minutes</duration>
+  <distance>664 miles (1068 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>3:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>350</price>
+</flight>
+<flight>
+  <flightnumber>623</flightnumber>
+  <airline>United</airline>
+  <airlineimageurl>images/United.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>12:00 PM</departuretime>
+  <destinationlocation>Montreal, PQ, Canada (YUL-Pierre Elliott Trudeau Intl.)</destinationlocation>
+  <destinationairport>Pierre Elliott Trudeau Intl.</destinationairport>
+  <destinationairportsymbol>YUL</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>12:40 PM</arrivaltime>
+  <duration>40 minutes</duration>
+  <distance>664 miles (1068 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>12:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>358</price>
+</flight>
+<flight>
+  <flightnumber>626</flightnumber>
+  <airline>United</airline>
+  <airlineimageurl>images/United.gif</airlineimageurl>
+  <departurelocation>New York, NY (JFK-Kennedy)</departurelocation>
+  <departureairport>John F Kennedy</departureairport>
+  <departureairportsymbol>JFK</departureairportsymbol>
+  <departuredate>05/17/2011</departuredate>
+  <departuretime>3:00 PM</departuretime>
+  <destinationlocation>Montreal, PQ, Canada (YUL-Pierre Elliott Trudeau Intl.)</destinationlocation>
+  <destinationairport>Pierre Elliott Trudeau Intl.</destinationairport>
+  <destinationairportsymbol>YUL</destinationairportsymbol>
+  <arrivaldate>05/17/2011</arrivaldate>
+  <arrivaltime>3:40 PM</arrivaltime>
+  <duration>40 minutes</duration>
+  <distance>664 miles (1068 km)</distance>
+  <returndate>05/30/2011</returndate>
+  <returntime>3:00 PM</returntime>
+  <triptype>roundtrip</triptype>
+  <numberofstops>0</numberofstops>
+  <cabin>Economy</cabin>
+  <price>358</price>
+</flight>
+</flightdata>
